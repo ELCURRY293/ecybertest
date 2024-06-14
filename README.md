@@ -1,4 +1,4 @@
-<h1>Hi, I'm Edward! <br/><a href="https://github.com/ELCURRY293/ecybertest/blob/main/README.md)</a>, <a href="https://www.linkedin.com/in/edward-curry-263a29223</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Edward! <br/><a href="https://github.com/ELCURRY293/ecybertest/blob/main/README.md</a>, <a href="https://www.linkedin.com/in/edward-curry-263a29223</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
